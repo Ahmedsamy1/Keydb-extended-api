@@ -10,4 +10,4 @@ app.use(servicesRoutes);
 app.use(postsRoutes);
 
 
-app.listen(3000);
+module.exports = app;
