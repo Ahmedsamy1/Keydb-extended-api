@@ -1,7 +1,7 @@
 {
   "name": "keydb",
   "version": "1.0.0",
-  "description": "A highly efficient api that implements caching that adds functionality to hatchways api.",
+  "description": "A highly efficient api which implements caching that adds functionality to hatchways api.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
