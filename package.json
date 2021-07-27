@@ -1,13 +1,13 @@
 {
   "name": "keydb",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "A highly efficient api that implements caching that adds functionality to hatchways api.",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "jest --watchAll"
   },
-  "author": "",
+  "author": "Ahmed Samy",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
